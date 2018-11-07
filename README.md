@@ -23,6 +23,5 @@ I am using Vue CLI 2 because that is used in the course.
 
 The project uses:
 VueJS
-Bootstrap 4
 HTML
 CSS
