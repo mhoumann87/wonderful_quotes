@@ -22,6 +22,7 @@ The project is build as part of a course in VueJs on [Udemy.com](https://www.ude
 I am using Vue CLI 2 because that is used in the course.
 
 The project uses:
-VueJS
+VueJS CLI 2
+Bootstrap 4
 HTML
 CSS
