@@ -32,6 +32,9 @@ export default {
   },
   methods: {
     addQuote(quote) {
+      if (this.quotes.length >= this.maxQuotes) {
+        return alert("Please Delete Quotes First!");
+      }
       this.quotes.push(quote);
     },
     deleteQuote(index) {
